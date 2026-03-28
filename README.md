@@ -35,7 +35,7 @@ To prevent unauthorized API usage and billing, sensitive configuration files hav
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/zaba-baramy/school-bus-tracker.git](https://github.com/zaba-baramy/school-bus-tracker.git)
+    git clone [https://github.com/zaba-baramy/school-bus-tracker.git](https://github.com/zaba-baramy/vetrace.git)
     ```
 2.  **Configuration:** * Add your own `google-services.json` to `android/app/`.
     * Ensure your Google Maps API Key is set in `AndroidManifest.xml`.
